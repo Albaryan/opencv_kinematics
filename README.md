@@ -41,8 +41,8 @@ Two different solutions can simply reffered as inner solution and outer solution
 
 ### Resources
 
-# https://www.mathworks.com/help/symbolic/derive-and-apply-inverse-kinematics-to-robot-arm.html
-# Introduction to Robotics: Analysis, Control, Applications (Saeed B. Niku)
+#### https://www.mathworks.com/help/symbolic/derive-and-apply-inverse-kinematics-to-robot-arm.html
+#### Introduction to Robotics: Analysis, Control, Applications (Saeed B. Niku)
 
 
 
