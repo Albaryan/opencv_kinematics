@@ -39,10 +39,10 @@ Two different solutions can simply reffered as inner solution and outer solution
 
 ![Screenshot from 2023-06-25 16-20-32](https://github.com/Albaryan/opencv_kinematics/assets/104989834/f44d3499-5d92-436a-969c-ac786090bf06)
 
-## Resources
+### Resources
 
-https://www.mathworks.com/help/symbolic/derive-and-apply-inverse-kinematics-to-robot-arm.html\
-Introduction to Robotics: Analysis, Control, Applications (Saeed B. Niku)
+#https://www.mathworks.com/help/symbolic/derive-and-apply-inverse-kinematics-to-robot-arm.html
+#Introduction to Robotics: Analysis, Control, Applications (Saeed B. Niku)
 
 
 
