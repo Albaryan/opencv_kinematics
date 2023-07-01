@@ -16,7 +16,7 @@ To get the location of robot's end, we need the angles. Solving forward kinemati
 
 Inverse kinematics equations are based on location of robot's end by the referance axes. Those equations give the joint angles by the location of robot's end. Solving forward kinematics in terms of coordinates will give the inverse kinematics equations. <br>
 
-With inverse kinematics equations, we get values of joint angles for desired location of robot's end. As you can see there is two possible solutions for inverse kinematics equations.
+With inverse kinematics equations, we get values of joint angles for desired location of robot's end.
 
 ### Resources
 
