@@ -12,9 +12,11 @@ Press c to change between solution 1 and solution 2.
 
 ## Theory
 
+![forwardgraph](https://github.com/Albaryan/opencv_kinematics/assets/104989834/e1b0b9e9-11c1-4016-b410-d87c598e76de)
+
 ### Forward kinematics:
 
-![forwardgraph](https://github.com/Albaryan/opencv_kinematics/assets/104989834/e1b0b9e9-11c1-4016-b410-d87c598e76de)
+
 
 Forward kinematics equations are based on angle of L1 by x axis (theta 1) and angle of L2 by the normal of L1 (theta 2). Those equations give the location of robot's end by the angles of robot's movable joints. For every movable joint, robot's degree of freedom (DOF) can be found. Since this robot has 2 movable joints, its also called 2-DOF robot. For every robot, there is a universal forward kinematics representation called D-H representation. Using the D-H representation for 2-DOF robot, we derive the formula below.
 
